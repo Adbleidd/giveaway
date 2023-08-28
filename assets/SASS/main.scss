@@ -1,0 +1,13 @@
+// Global
+@import "global/colors";
+@import "global/mixins.scss";
+@import "global/fonts";
+@import "global/base";
+@import "global/typography";
+
+// Layout
+@import "layout/header";
+@import "layout/footer";
+
+// Front page
+@import "front-page/front-page";
